@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Auni-Chan
 - 👀 I’m interested in coding and want to explore what is in IT
-- 🌱 I’m currently learning how to use VS code as beginner
+- 🌱 I’m currently learn abt coding as a beginner
 - 📫 How to reach me : Telegram: xuni_exe
 - 😄 Pronouns: she/her
 --->
